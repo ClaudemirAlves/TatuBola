@@ -1,2 +1,3 @@
 # TatuBola
-Uma página falando do Tatu-Bola
+Uma página feita em HTML falando do Tatu-Bola.
+https://claudemiralves.github.io/TatuBola/
